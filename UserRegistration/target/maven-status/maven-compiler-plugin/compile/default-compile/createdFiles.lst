@@ -1,0 +1,10 @@
+com\exercise\demo\UserRegistrationApplication.class
+com\exercise\demo\exception\UserIsExcludedException.class
+com\exercise\demo\controller\UserController.class
+com\exercise\demo\exception\UserAlreadyPresentException.class
+com\exercise\demo\dao\ExclusionService.class
+com\exercise\demo\dao\ExclusionServiceImpl.class
+com\exercise\demo\model\User.class
+com\exercise\demo\exception\CustomGlobalExceptionHandler.class
+com\exercise\demo\exception\ResourceNotFoundException.class
+com\exercise\demo\dao\UserRepository.class
